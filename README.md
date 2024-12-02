@@ -1,1 +1,1 @@
-# Fight-your-own-case-using-olama-
+# problem generation usign olama-
